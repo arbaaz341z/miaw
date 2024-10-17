@@ -14,4 +14,4 @@
 			console.error('Error loading Embedded Messaging: ', err);
 		}
 	};
-<script type='text/javascript' src='https://fcagroup--mktplace.sandbox.my.site.com/ESWMIAW1728282903975/assets/js/bootstrap.min.js' onload='initEmbeddedMessaging()'></script>
+
